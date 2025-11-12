@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshita Upreti</h1>
-<h3 align="center">Frontend & Full Stack Developer | React | PHP | MySQL | Python</h3>
+<h3 align="center">Software & Full Stack Developer | React | PHP | MySQL | Python</h3>
 
 <p align="center">
   🌱 B.Tech CSE Student at <b>Noida Institute of Engineering and Technology (2022–2026)</b><br>
@@ -25,14 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
 </p>
-
----
-
-### 🚀 Featured Projects
-
-- 🎓 [ERP Management System (HTML/CSS/PHP)](https://github.com/harshitaupr12/erp_project)
-- 💚 [Organ Donation & Transplant System (PHP/MySQL)](https://github.com/harshitaupr12/organ-donation-system)
-- 💼 [Personal Portfolio (React/Next.js)](https://github.com/harshitaupr12/my-portfolio)
 
 ---
 
