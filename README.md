@@ -1,4 +1,39 @@
-👩‍💻 Software Development Engineer (SDE) | Full-Stack Developer | React, Node.js & Python  
-💡 1-year internship + Freelance experience | Building scalable web apps & small AI projects  
-🚀 Passionate about clean code, problem-solving, and turning ideas into real-world applications  
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/harshitaupr12/) | [Portfolio](https://my-portfolio-two-gamma-81.vercel.app/)
+# 👋 Hi, I'm Harshita Upreti
+
+🎓 B.Tech CSE @ Noida Institute of Engineering and Technology (2022–2026)  
+💻 Front-End & Full-Stack Developer | React | Node.js | PHP | MySQL  
+🌱 Currently improving my UI/UX and exploring Cloud & WordPress Development  
+📫 Reach me at: harshitaupreti04@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/harshitaupr12](https://linkedin.com/in/harshitaupr12)
+
+---
+
+### 💻 Languages and Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+![Harshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitaupr12&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitaupr12&layout=compact&theme=tokyonight)
+
+---
+
+### 🚀 Featured Projects
+- [ERP Management System (HTML/CSS/PHP)](https://github.com/harshitaupr12/erp_project)
+- [Personal Portfolio (React)](https://github.com/harshitaupr12/my-portfolio)
+- [Organ Donation & Transplant System (PHP/MySQL)](https://github.com/harshitaupr12/organ-donation-system)
+
+---
+
+⭐ *Thanks for visiting my profile! Don’t forget to follow and star my repositories!* ⭐
