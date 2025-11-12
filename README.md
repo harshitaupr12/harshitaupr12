@@ -29,11 +29,5 @@
 
 ---
 
-### 🚀 Featured Projects
-- [ERP Management System (HTML/CSS/PHP)](https://github.com/harshitaupr12/erp_project)
-- [Personal Portfolio (React)](https://github.com/harshitaupr12/my-portfolio)
-- [Organ Donation & Transplant System (PHP/MySQL)](https://github.com/harshitaupr12/organ-donation-system)
-
----
 
 ⭐ *Thanks for visiting my profile! Don’t forget to follow and star my repositories!* ⭐
