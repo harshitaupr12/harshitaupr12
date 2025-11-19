@@ -4,7 +4,7 @@
 <p align="center">
   🌱 B.Tech CSE Student at <b>Noida Institute of Engineering and Technology (2022–2026)</b><br>
   💻 Passionate about Web Development and Open Source<br>
-  📫 Reach me at: <a href="mailto:harshitaupreti07@gmail.com">harshitaupreti04@gmail.com</a><br>
+  📫 Reach me at: <a href="mailto:harshitaupreti07@gmail.com">harshitaupreti07@gmail.com</a><br>
   🔗 Connect with me on <a href="https://linkedin.com/in/harshitaupr12" target="_blank">LinkedIn</a>
 </p>
 
