@@ -18,7 +18,7 @@
 - 🎓 **B.Tech CSE Student** at Noida Institute of Engineering and Technology (2022–2026)
 - 💡 Passionate about **Web Development, Open Source, and AI/ML**
 - 🌱 Currently learning **Advanced React, Node.js, and Data Structures**
-- 🎯 **2026 Goals:** Contribute to Open Source projects and build impactful applications
+- 🎯 **2024 Goals:** Contribute to Open Source projects and build impactful applications
 - ⚡ **Fun fact:** I love solving coding challenges and participating in hackathons
 
 ---
@@ -52,42 +52,27 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
   
-  <a href="https://github.com/harshitaupr12">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshitaupr12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Harshita's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitaupr12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-  </a>
-  
-  <br/>
+  ### 📈 My Contributions
   
   <a href="https://github.com/harshitaupr12">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitaupr12&theme=tokyonight&hide_border=true&fire=22D3EE&ring=22D3EE" alt="GitHub Streak"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=harshitaupr12&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
   
+  <a href="https://github.com/harshitaupr12">
+    <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitaupr12&theme=tokyonight&hide_border=true&fire=22D3EE&ring=22D3EE" alt="GitHub Streak"/>
+  </a>
+
+  ### 💻 Most Used Languages
+  
+  <a href="https://github.com/harshitaupr12">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitaupr12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" alt="Top Languages"/>
+  </a>
+
 </div>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <a href="https://github.com/harshitaupr12">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitaupr12&theme=react-dark&bg_color=1a1b27&hide_border=true&area_color=22D3EE&line=22D3EE&point=FFFFFF" alt="Activity Graph"/>
-  </a>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/harshitaupr12">
-    <img src="https://github-profile-trophy.vercel.app/?username=harshitaupr12&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-  </a>
-</p>
 
 ---
 
