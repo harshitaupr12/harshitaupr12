@@ -1,60 +1,121 @@
-<h1 align="center">Hi 👋, I'm Harshita Upreti</h1>
-<h3 align="center">Software & Full Stack Developer | React | PHP | MySQL | Python</h3>
+<h1 align="center">👋 Hello World! I'm Harshita Upreti</h1>
+<h3 align="center">💻 Full Stack Developer | React Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  🌱 B.Tech CSE Student at <b>Noida Institute of Engineering and Technology (2022–2026)</b><br>
-  💻 Passionate about Web Development and Open Source<br>
-  📫 Reach me at: <a href="mailto:harshitaupreti07@gmail.com">harshitaupreti07@gmail.com</a><br>
-  🔗 Connect with me on <a href="https://linkedin.com/in/harshitaupr12" target="_blank">LinkedIn</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+PHP+%7C+Python;Open+Source+Contributor;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+## 🚀 About Me
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40" alt="WordPress"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" align="right" alt="Coding GIF">
+</p>
+
+- 🎓 **B.Tech CSE Student** at Noida Institute of Engineering and Technology (2022–2026)
+- 💡 Passionate about **Web Development, Open Source, and AI/ML**
+- 🌱 Currently learning **Advanced React, Node.js, and Data Structures**
+- 🎯 **2024 Goals:** Contribute to Open Source projects and build impactful applications
+- ⚡ **Fun fact:** I love solving coding challenges and participating in hackathons
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 **Frontend Development**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+</p>
+
+### 🔧 **Backend Development**
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
+
+### 🗄️ **Databases & Tools**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <a href="https://github.com/harshitaupr12">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshitaupr12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Harshita's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitaupr12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  </a>
+  
+  <br/>
+  
+  <a href="https://github.com/harshitaupr12">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitaupr12&theme=tokyonight&hide_border=true&fire=22D3EE&ring=22D3EE" alt="GitHub Streak"/>
+  </a>
+  
+</div>
+
+---
+
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshitaupr12&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitaupr12&theme=tokyonight" alt="GitHub streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitaupr12&layout=compact&theme=tokyonight" alt="Top languages" />
+  <a href="https://github.com/harshitaupr12">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitaupr12&theme=react-dark&bg_color=1a1b27&hide_border=true&area_color=22D3EE&line=22D3EE&point=FFFFFF" alt="Activity Graph"/>
+  </a>
 </p>
 
 ---
 
-### 🤝 Connect with Me
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/harshitaupr12">
+    <img src="https://github-profile-trophy.vercel.app/?username=harshitaupr12&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  </a>
+</p>
+
+---
+
+## 📫 Let's Connect!
 
 <p align="center">
   <a href="https://linkedin.com/in/harshitaupr12" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:harshitaupreti04@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:harshitaupreti07@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/harshitaupr12" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
 
 ---
 
-⭐ *Thanks for visiting my profile! If you like my work, consider giving my repositories a star!* ⭐
+<div align="center">
+
+### 💝 Thanks for visiting my profile!
+  
+![Visitor Count](https://komarev.com/ghpvc/?username=harshitaupr12&color=blueviolet&style=flat-square)
+
+⭐ **Feel free to explore my repositories and don't forget to star if you find something interesting!** ⭐
+
+</div>
