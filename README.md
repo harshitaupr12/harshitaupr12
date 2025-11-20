@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello World! I'm Harshita Upreti</h1>
-<h3 align="centerSoftware Development Engineer (SDE) - Full-Stack | React.js • Node.js • Python | Building Scalable Web Applications
+<h3 align="center">Software Development Engineer (SDE) - Full-Stack | React.js • Node.js • Python | Building Scalable Web Applications</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -61,7 +61,10 @@
   <a href="https://github.com/harshitaupr12">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=harshitaupr12&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
-
+  
+  <a href="https://github.com/harshitaupr12">
+    <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitaupr12&theme=tokyonight&hide_border=true&fire=22D3EE&ring=22D3EE" alt="GitHub Streak"/>
+  </a>
 
   ### 💻 Most Used Languages
   
