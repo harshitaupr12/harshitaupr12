@@ -18,7 +18,7 @@
 - 🎓 **B.Tech CSE Student** at Noida Institute of Engineering and Technology (2022–2026)
 - 💡 Passionate about **Web Development, Open Source, and AI/ML**
 - 🌱 Currently learning **Advanced React, Node.js, and Data Structures**
-- 🎯 **2024 Goals:** Contribute to Open Source projects and build impactful applications
+- 🎯 **2025 Goals:** Contribute to Open Source projects and build impactful applications
 - ⚡ **Fun fact:** I love solving coding challenges and participating in hackathons
 
 ---
@@ -61,10 +61,7 @@
   <a href="https://github.com/harshitaupr12">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=harshitaupr12&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
-  
-  <a href="https://github.com/harshitaupr12">
-    <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitaupr12&theme=tokyonight&hide_border=true&fire=22D3EE&ring=22D3EE" alt="GitHub Streak"/>
-  </a>
+
 
   ### 💻 Most Used Languages
   
