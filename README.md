@@ -18,7 +18,7 @@
 - 🎓 **B.Tech CSE Student** at Noida Institute of Engineering and Technology (2022–2026)
 - 💡 Passionate about **Web Development, Open Source, and AI/ML**
 - 🌱 Currently learning **Advanced React, Node.js, and Data Structures**
-- 🎯 **2024 Goals:** Contribute to Open Source projects and build impactful applications
+- 🎯 **2026 Goals:** Contribute to Open Source projects and build impactful applications
 - ⚡ **Fun fact:** I love solving coding challenges and participating in hackathons
 
 ---
