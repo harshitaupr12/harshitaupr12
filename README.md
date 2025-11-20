@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello World! I'm Harshita Upreti</h1>
-<h3 align="center">💻 Full Stack Developer | React Enthusiast | Problem Solver</h3>
+<h3 align="centerSoftware Development Engineer (SDE) - Full-Stack | React.js • Node.js • Python | Building Scalable Web Applications
 
 <p align="center">
   <a href="https://git.io/typing-svg">
