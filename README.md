@@ -128,14 +128,21 @@ Complete student management system with admin workflows
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshitaupr12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitaupr12&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshitaupr12&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitaupr12&theme=radical&hide_border=true&background=0D1117&stroke=22D3EE&ring=22D3EE&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+  
+</div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitaupr12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitaupr12&layout=compact&theme=radical&hide_border=true&langs_count=10&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF&hide=html,css" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshitaupr12&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=22D3EE&line=22D3EE&point=FFFFFF" alt="Contribution Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshitaupr12&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
 
 ---
 
