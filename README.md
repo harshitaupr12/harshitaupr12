@@ -23,6 +23,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 const harshita = {
 💼 role: "SDE Intern @ Phoenix Contact",
+
 🎓 education: "B.Tech CSE (AI) | NIET (2022–2026)",
 
 🔥 currentFocus: ["System Design", "React Performance", "Open Source"],
