@@ -1,171 +1,140 @@
-<h1 align="center">Hi 👋 I'm Harshita Upreti</h1>
-<h3 align="center">Software Engineer | React.js • Node.js • Python</h3>
+<h1 align="center">👋 Hey there, I'm Harshita Upreti</h1>
+
+<h3 align="center">Software Engineer | React.js • Node.js • Python | Turning Ideas into Scalable Code</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=React+%7C+JavaScript+%7C+Python;Building+Scalable+Web+Applications;Open+Source+Enthusiast" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Problem+Solver;Building+Performant+React+Apps;Lifelong+Learner+⚡+Creator" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/harshitaupr12"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:harshitaupreti07@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-  <img src="https://komarev.com/ghpvc/?username=harshitaupr12&color=blueviolet&style=flat" alt="Profile Views"/>
+  <a href="https://linkedin.com/in/harshitaupr12"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:harshitaupreti07@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=flat&logo=google-chrome&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=harshitaupr12&color=purple&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-```javascript
 const harshita = {
-    location: "Greater Noida, India",
-    role: "Software Development Engineer Intern @ Phoenix Contact",
-    education: "B.Tech CSE (AI) | NIET | 2022-2026",
-    currentFocus: ["React Performance Optimization", "System Design", "DSA"],
-    techStack: {
-        frontend: ["React", "JavaScript", "Tailwind CSS", "Context API"],
-        backend: ["Node.js", "Express.js", "PHP", "REST APIs"],
-        languages: ["Python", "JavaScript", "C#", "C++"],
-        databases: ["MySQL", "PostgreSQL", "MongoDB"],
-        tools: ["Git", "Postman", "VS Code", "Figma"]
-    },
-    achievements: [
-        "Improved rendering performance by 25% at Phoenix Contact",
-        "Built 15+ production-ready React components",
-        "3 internships with progressive responsibilities"
-    ],
-    goals2025: ["Contribute to Open Source", "Master System Design", "Build SaaS Product"]
+location: "Greater Noida, India",
+role: "SDE Intern @ Phoenix Contact",
+studying: "B.Tech in CSE (AI) | NIET (2022–2026)",
+focus: ["System Design", "React Optimization", "Open Source"],
+tech: {
+frontend: ["React", "JavaScript", "Tailwind CSS", "Redux Toolkit"],
+backend: ["Node.js", "Express.js", "Python", "PHP"],
+databases: ["PostgreSQL", "MongoDB", "MySQL"],
+tools: ["Git", "Postman", "VS Code", "Figma"]
+},
+achievements: [
+"Boosted React performance by 25% 🚀",
+"Developed 15+ reusable UI components",
+"Completed 3 internships with impact"
+],
+2025_goals: [
+"Contribute to open source projects 💻",
+"Master scalable architecture patterns 🧩",
+"Launch a SaaS side project 🚀"
+]
 };
-```
 
 ---
 
-## 🚀 Experience Highlights
+## 💼 Experience Timeline
 
-**💼 Current:** Software Development Intern @ **Phoenix Contact India** (Jul 2025 - Present)
-- Optimized React components reducing re-renders by 25%
-- Integrated REST APIs with clean architecture patterns
-- Delivered features in Agile environment with cross-functional teams
+**🚀 Phoenix Contact (SDE Intern)** — *Jul 2025 – Present*  
+- Improved React rendering efficiency by 25% through optimized states and memoization.  
+- Streamlined REST API integration using clean architecture patterns.  
+- Collaborated in an Agile setup to deliver fast, modular features.  
 
-**💼 Previous:** Frontend Developer @ **WapVenture** | **Edyyo Digital Solutions**
-- Built responsive React UIs improving performance across devices
-- Developed reusable component library reducing development time
-- Enhanced SEO and mobile compatibility for client websites
-
----
-
-## 🛠️ Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### Frontend
-<div align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-### Backend
-<div align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-### Tools & Database
-<div align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</div>
-
-</td>
-</tr>
-</table>
+**💻 WapVenture | Edyyo Digital Solutions (Frontend Developer)**  
+- Built modern, responsive UIs using React and Tailwind.  
+- Created a component library reducing development time by 40%.  
+- Enhanced SEO across multiple client products.  
 
 ---
 
-## 📌 Featured Projects
+## ⚙️ Tech Playground
 
-### 🔍 [Resume Matcher](https://github.com/harshitaupr12/resume-matcher)
-NLP-powered system to match resumes with job descriptions
-- **Tech:** Python, NLP, Streamlit
-- **Features:** Automated keyword extraction, match score computation, skill gap analysis
+| Frontend | Backend | Tools & DB |
+|:--:|:--:|:--:|
+| React • JavaScript • Tailwind | Node.js • Python • Express | Git • MySQL • PostgreSQL • MongoDB • Postman |
+
+---
+
+## 🚩 Projects That Define Me
+
+### 🧠 [Resume Matcher](https://github.com/harshitaupr12/resume-matcher)
+A smart NLP-powered system that maps resumes to job roles with skill-gap insights.  
+**Tech:** Python, Streamlit, NLP  
+**Feature highlight:** Match score computation & keyword extraction.
 
 ### 🤖 [AI Blog Generator](https://github.com/harshitaupr12/ai-blog-generator)
-AI-driven content generator for SEO-friendly blogs
-- **Tech:** Python, OpenAI API, Flask
-- **Features:** Structured content generation, automated heading creation, keyword optimization
+AI-powered blog writer for structured, SEO-optimized content.  
+**Tech:** Flask, OpenAI API  
+**Feature highlight:** Auto headings, keyword enrichment, and context-aware tone.
 
-### 💰 [Financial Expense Tracker](https://github.com/harshitaupr12/expense-tracker)
-Full-stack dashboard with ML-based expense prediction
-- **Tech:** React, Flask, Scikit-learn
-- **Features:** Expense categorization, predictive analytics, interactive charts
+### 💸 [Expense Tracker Dashboard](https://github.com/harshitaupr12/expense-tracker)
+ML-enabled financial dashboard predicting spending trends.  
+**Tech:** React, Flask, Scikit-learn  
+**Feature highlight:** Predictive analytics + visual dashboard.
 
-### 🎓 [ERP Student Management](https://github.com/harshitaupr12/erp-system)
-Complete student management system with admin workflows
-- **Tech:** PHP, MySQL, Bootstrap
-- **Features:** Attendance tracking, record management, role-based access
+### 🎓 [Smart ERP Management System](https://github.com/harshitaupr12/erp-system)
+Streamlined admin workflows with smart role-based control.  
+**Tech:** PHP, MySQL, Bootstrap  
+**Feature highlight:** Attendance, records, and access automation.  
 
-> 🔗 **[View All Projects →](https://github.com/harshitaupr12?tab=repositories)**
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshitaupr12&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitaupr12&theme=radical&hide_border=true&background=0D1117&stroke=22D3EE&ring=22D3EE&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
-  
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitaupr12&layout=compact&theme=radical&hide_border=true&langs_count=10&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF&hide=html,css" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshitaupr12&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=22D3EE&line=22D3EE&point=FFFFFF" alt="Contribution Graph"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshitaupr12&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
+> 🌐 [See more interesting builds →](https://github.com/harshitaupr12?tab=repositories)
 
 ---
 
-## 🏆 Certifications & Learning
+## 📊 Developer Stats
 
-- ✅ **ReactJS** - Infosys Springboard
-- ✅ **Python Basics** - Coursera
-- ✅ **Introduction to Artificial Intelligence** - Coursera
-- 📚 Currently Learning: Advanced React Patterns, System Design, DSA
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshitaupr12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=harshitaupr12&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitaupr12&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=html,css" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshitaupr12&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshitaupr12&theme=onestar&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
 
 ---
 
-## 📫 Let's Connect
+## 🎓 Certifications & Ongoing Learning
+
+- ReactJS — Infosys Springboard  
+- Python Basics — Coursera  
+- Introduction to AI — Coursera  
+- Currently exploring: Advanced React Patterns & System Design  
+
+---
+
+## 🌍 Beyond Code
+
+When not debugging, you'll find me sketching UI wireframes, reading tech blogs, or experimenting with AI APIs.  
+Passionate about building products that are both robust and user-driven.
+
+---
+
+## 📫 Connect & Collaborate
 
 <p align="center">
   <a href="https://linkedin.com/in/harshitaupr12" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Chat-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:harshitaupreti07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-Reach_Out-D14836?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Live-00C7B7?style=for-the-badge&logo=google-chrome"/>
   </a>
 </p>
 
@@ -173,8 +142,8 @@ Complete student management system with admin workflows
 
 <div align="center">
   
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### 💬 "Code that solves problems stays timeless. Write for humans, not just machines."
 
-**⭐ Star my repos if you find them useful | Open to collaborations & opportunities**
+⭐ Star repositories you like | 💡 Open to collaborations & new ideas
 
 </div>
