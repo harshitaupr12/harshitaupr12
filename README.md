@@ -182,7 +182,7 @@ Role-based admin system with workflow automation
   <a href="mailto:harshitaupreti07@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://my-portfolio-two-gamma-81.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Check_It_Out-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
