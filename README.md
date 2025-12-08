@@ -3,7 +3,7 @@
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
 ║  DEVELOPER_ID: harshita_upreti                               ║
-║  STATUS: [ ONLINE ]  LOCATION: [ Meerut, IN ]               ║
+║  STATUS: [ ONLINE ]                                          ║
 ║  MODE: Building the future, one commit at a time             ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
