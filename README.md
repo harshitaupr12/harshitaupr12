@@ -1,464 +1,198 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Harshita Upreti - Developer Profile</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+<div align="center">
 
-        body {
-            font-family: 'Courier New', monospace;
-            background: linear-gradient(135deg, #0a0e27 0%, #1a1a2e 50%, #16213e 100%);
-            color: #00ff88;
-            min-height: 100vh;
-            overflow-x: hidden;
-            position: relative;
-        }
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HARSHITA%20UPRETI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-        /* Animated Background Particles */
-        .particles {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            overflow: hidden;
-            z-index: 0;
-        }
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF88&center=true&vCenter=true&width=940&lines=Software+Engineer+%F0%9F%92%BB;React+Architect+%E2%9A%9B%EF%B8%8F;System+Optimizer+%F0%9F%9A%80;Building+The+Future%2C+One+Commit+At+A+Time+%E2%9C%A8" alt="Typing SVG" />
 
-        .particle {
-            position: absolute;
-            width: 2px;
-            height: 2px;
-            background: rgba(0, 255, 136, 0.5);
-            animation: float 15s infinite;
-        }
+<br/>
 
-        @keyframes float {
-            0%, 100% { transform: translateY(0) translateX(0); opacity: 0; }
-            10% { opacity: 1; }
-            90% { opacity: 1; }
-            100% { transform: translateY(-100vh) translateX(50px); opacity: 0; }
-        }
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitaupr12)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitaupreti07@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-two-gamma-81.vercel.app)
+[![Profile Views](https://komarev.com/ghpvc/?username=harshitaupr12&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/harshitaupr12)
 
-        /* Main Container */
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 40px 20px;
-            position: relative;
-            z-index: 1;
-        }
+</div>
 
-        /* Holographic Header */
-        .header {
-            background: linear-gradient(135deg, rgba(0, 255, 136, 0.1) 0%, rgba(0, 200, 255, 0.1) 100%);
-            border: 2px solid #00ff88;
-            border-radius: 20px;
-            padding: 40px;
-            margin-bottom: 40px;
-            position: relative;
-            overflow: hidden;
-            box-shadow: 0 0 40px rgba(0, 255, 136, 0.3),
-                        inset 0 0 40px rgba(0, 255, 136, 0.1);
-            animation: glowPulse 3s ease-in-out infinite;
-        }
+---
 
-        @keyframes glowPulse {
-            0%, 100% { box-shadow: 0 0 40px rgba(0, 255, 136, 0.3), inset 0 0 40px rgba(0, 255, 136, 0.1); }
-            50% { box-shadow: 0 0 60px rgba(0, 255, 136, 0.5), inset 0 0 60px rgba(0, 255, 136, 0.2); }
-        }
+<div align="center">
 
-        .header::before {
-            content: '';
-            position: absolute;
-            top: -50%;
-            left: -50%;
-            width: 200%;
-            height: 200%;
-            background: linear-gradient(45deg, transparent, rgba(0, 255, 136, 0.1), transparent);
-            animation: shine 3s infinite;
-        }
+## 『 💫 ABOUT ME 』
 
-        @keyframes shine {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
-        }
+</div>
 
-        .header-content {
-            position: relative;
-            z-index: 1;
-            text-align: center;
-        }
-
-        .status-bar {
-            background: rgba(0, 0, 0, 0.5);
-            border: 1px solid #00ff88;
-            border-radius: 10px;
-            padding: 15px;
-            margin-bottom: 30px;
-            font-size: 14px;
-            backdrop-filter: blur(10px);
-        }
-
-        .status-bar span {
-            display: inline-block;
-            margin: 0 15px;
-            animation: blink 2s infinite;
-        }
-
-        @keyframes blink {
-            0%, 50%, 100% { opacity: 1; }
-            25%, 75% { opacity: 0.5; }
-        }
-
-        h1 {
-            font-size: 48px;
-            margin: 20px 0;
-            text-shadow: 0 0 20px rgba(0, 255, 136, 0.8);
-            animation: textGlow 2s ease-in-out infinite;
-        }
-
-        @keyframes textGlow {
-            0%, 100% { text-shadow: 0 0 20px rgba(0, 255, 136, 0.8); }
-            50% { text-shadow: 0 0 40px rgba(0, 255, 136, 1); }
-        }
-
-        .role-tags {
-            display: flex;
-            justify-content: center;
-            gap: 15px;
-            flex-wrap: wrap;
-            margin-top: 20px;
-        }
-
-        .tag {
-            background: linear-gradient(135deg, rgba(0, 255, 136, 0.2), rgba(0, 200, 255, 0.2));
-            border: 1px solid #00ff88;
-            padding: 10px 20px;
-            border-radius: 25px;
-            font-size: 14px;
-            backdrop-filter: blur(10px);
-            transition: all 0.3s ease;
-            cursor: pointer;
-        }
-
-        .tag:hover {
-            transform: translateY(-5px) scale(1.05);
-            box-shadow: 0 10px 30px rgba(0, 255, 136, 0.5);
-        }
-
-        /* Glass Cards */
-        .cards-container {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-            gap: 30px;
-            margin-bottom: 40px;
-        }
-
-        .glass-card {
-            background: linear-gradient(135deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.02));
-            border: 1px solid rgba(0, 255, 136, 0.3);
-            border-radius: 20px;
-            padding: 30px;
-            backdrop-filter: blur(20px);
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
-            transition: all 0.3s ease;
-            position: relative;
-            overflow: hidden;
-        }
-
-        .glass-card::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: -100%;
-            width: 100%;
-            height: 100%;
-            background: linear-gradient(90deg, transparent, rgba(0, 255, 136, 0.2), transparent);
-            transition: left 0.5s ease;
-        }
-
-        .glass-card:hover::before {
-            left: 100%;
-        }
-
-        .glass-card:hover {
-            transform: translateY(-10px);
-            box-shadow: 0 15px 50px rgba(0, 255, 136, 0.4);
-            border-color: #00ff88;
-        }
-
-        .card-title {
-            font-size: 24px;
-            margin-bottom: 20px;
-            color: #00ccff;
-            text-shadow: 0 0 10px rgba(0, 204, 255, 0.8);
-        }
-
-        .code-block {
-            background: rgba(0, 0, 0, 0.5);
-            border: 1px solid rgba(0, 255, 136, 0.3);
-            border-radius: 10px;
-            padding: 20px;
-            font-size: 13px;
-            line-height: 1.8;
-            overflow-x: auto;
-            margin: 15px 0;
-        }
-
-        /* Social Links with Lamination Effect */
-        .social-links {
-            display: flex;
-            justify-content: center;
-            gap: 30px;
-            margin: 40px 0;
-            flex-wrap: wrap;
-        }
-
-        .social-btn {
-            position: relative;
-            padding: 15px 40px;
-            background: linear-gradient(135deg, rgba(0, 255, 136, 0.2), rgba(0, 200, 255, 0.2));
-            border: 2px solid #00ff88;
-            border-radius: 50px;
-            color: #00ff88;
-            text-decoration: none;
-            font-size: 16px;
-            font-weight: bold;
-            transition: all 0.3s ease;
-            overflow: hidden;
-            box-shadow: 0 0 20px rgba(0, 255, 136, 0.3);
-        }
-
-        .social-btn::before {
-            content: '';
-            position: absolute;
-            top: -50%;
-            left: -50%;
-            width: 200%;
-            height: 200%;
-            background: linear-gradient(45deg, transparent, rgba(255, 255, 255, 0.3), transparent);
-            transform: rotate(45deg);
-            transition: all 0.5s ease;
-        }
-
-        .social-btn:hover::before {
-            left: 100%;
-        }
-
-        .social-btn:hover {
-            transform: translateY(-5px) scale(1.05);
-            box-shadow: 0 10px 40px rgba(0, 255, 136, 0.6);
-            background: linear-gradient(135deg, rgba(0, 255, 136, 0.3), rgba(0, 200, 255, 0.3));
-        }
-
-        /* Metrics Dashboard */
-        .metrics {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 20px;
-            margin: 30px 0;
-        }
-
-        .metric {
-            background: rgba(0, 0, 0, 0.5);
-            border: 1px solid #00ff88;
-            border-radius: 15px;
-            padding: 20px;
-            text-align: center;
-            position: relative;
-            overflow: hidden;
-        }
-
-        .metric::after {
-            content: '';
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            width: 100%;
-            height: 3px;
-            background: linear-gradient(90deg, #00ff88, #00ccff);
-            animation: loadBar 2s ease-in-out infinite;
-        }
-
-        @keyframes loadBar {
-            0%, 100% { transform: translateX(-100%); }
-            50% { transform: translateX(100%); }
-        }
-
-        .metric-value {
-            font-size: 32px;
-            font-weight: bold;
-            color: #00ccff;
-            text-shadow: 0 0 15px rgba(0, 204, 255, 0.8);
-        }
-
-        .metric-label {
-            font-size: 14px;
-            margin-top: 10px;
-            opacity: 0.8;
-        }
-
-        /* Footer with Wave Animation */
-        .footer {
-            text-align: center;
-            margin-top: 60px;
-            padding: 30px;
-            position: relative;
-        }
-
-        .wave {
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            width: 100%;
-            height: 100px;
-            background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100"><path d="M0,50 Q300,0 600,50 T1200,50 L1200,100 L0,100 Z" fill="rgba(0,255,136,0.1)"/></svg>');
-            animation: wave 3s linear infinite;
-        }
-
-        @keyframes wave {
-            0% { background-position: 0 0; }
-            100% { background-position: 1200px 0; }
-        }
-
-        .cta {
-            font-size: 20px;
-            margin-bottom: 20px;
-            animation: pulse 2s ease-in-out infinite;
-        }
-
-        @keyframes pulse {
-            0%, 100% { transform: scale(1); }
-            50% { transform: scale(1.05); }
-        }
-
-        /* Responsive Design */
-        @media (max-width: 768px) {
-            h1 { font-size: 32px; }
-            .cards-container { grid-template-columns: 1fr; }
-            .social-links { flex-direction: column; align-items: center; }
-        }
-    </style>
-</head>
-<body>
-    <div class="particles" id="particles"></div>
+```javascript
+const harshita = {
+    pronouns: "She/Her",
+    location: "India 🇮🇳",
+    currentFocus: "Building scalable web applications",
+    lifePhilosophy: "Code is poetry, debug is meditation",
     
-    <div class="container">
-        <div class="header">
-            <div class="header-content">
-                <div class="status-bar">
-                    <span>⚡ SYSTEM ONLINE</span> | 
-                    <span>⟳ LATENCY: 0ms</span> | 
-                    <span>∞ UPTIME: 99.99%</span>
-                </div>
-                
-                <h1>HARSHITA UPRETI</h1>
-                
-                <div class="role-tags">
-                    <div class="tag">💻 Software Engineer</div>
-                    <div class="tag">⚛️ React Architect</div>
-                    <div class="tag">🚀 System Optimizer</div>
-                    <div class="tag">✨ Innovation Driver</div>
-                </div>
-            </div>
-        </div>
-
-        <div class="social-links">
-            <a href="https://linkedin.com/in/harshitaupr12" class="social-btn">
-                <span>🔗 LinkedIn</span>
-            </a>
-            <a href="mailto:harshitaupreti07@gmail.com" class="social-btn">
-                <span>📧 Email</span>
-            </a>
-            <a href="https://my-portfolio-two-gamma-81.vercel.app" class="social-btn">
-                <span>🌐 Portfolio</span>
-            </a>
-        </div>
-
-        <div class="cards-container">
-            <div class="glass-card">
-                <div class="card-title">// DEVELOPER PROFILE</div>
-                <div class="code-block">
-const developer = {<br>
-&nbsp;&nbsp;name: "Harshita Upreti",<br>
-&nbsp;&nbsp;expertise: [<br>
-&nbsp;&nbsp;&nbsp;&nbsp;"Frontend Architecture",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;"Performance Optimization",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;"System Design"<br>
-&nbsp;&nbsp;],<br>
-&nbsp;&nbsp;philosophy: "Build elegant,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;scalable solutions",<br>
-&nbsp;&nbsp;status: "∞ INNOVATING"<br>
+    techStack: {
+        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+        backend: ["Node.js", "Express", "MongoDB"],
+        tools: ["Git", "Docker", "VS Code", "Figma"],
+        currentlyLearning: ["System Design", "AWS", "GraphQL"]
+    },
+    
+    workingOn: "🚀 Architecting tomorrow's solutions today",
+    
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
-                </div>
-            </div>
+```
 
-            <div class="glass-card">
-                <div class="card-title">// CORE SYSTEMS</div>
-                <div class="metrics">
-                    <div class="metric">
-                        <div class="metric-value">∞</div>
-                        <div class="metric-label">CREATIVITY</div>
-                    </div>
-                    <div class="metric">
-                        <div class="metric-value">9.8</div>
-                        <div class="metric-label">INNOVATION</div>
-                    </div>
-                </div>
-                <div class="code-block">
-class Engineer:<br>
-&nbsp;&nbsp;def __init__(self):<br>
-&nbsp;&nbsp;&nbsp;&nbsp;self.passion = True<br>
-&nbsp;&nbsp;&nbsp;&nbsp;self.learning = "continuous"<br>
-&nbsp;&nbsp;&nbsp;&nbsp;self.impact = "maximum"
-                </div>
-            </div>
+---
 
-            <div class="glass-card">
-                <div class="card-title">// CURRENT MISSION</div>
-                <div class="code-block">
->>> mission = "Transform ideas<br>
-&nbsp;&nbsp;&nbsp;&nbsp;into reality"<br>
->>> status = "ACTIVE"<br>
->>> commitment = "BUILDING<br>
-&nbsp;&nbsp;&nbsp;&nbsp;THE FUTURE"<br><br>
-[✓] Code Quality: EXCEPTIONAL<br>
-[✓] Innovation: BLEEDING_EDGE<br>
-[✓] Collaboration: SYNCHRONOUS<br>
-[⟳] Growth: EXPONENTIAL
-                </div>
-            </div>
-        </div>
+<div align="center">
 
-        <div class="footer">
-            <div class="wave"></div>
-            <div class="cta">
-                >> Ready to create something extraordinary? Let's connect. <<
-            </div>
-            <div style="font-size: 12px; opacity: 0.6; margin-top: 20px;">
-                🌟 Crafted with passion | © 2024 Harshita Upreti
-            </div>
-        </div>
-    </div>
+## 『 🛠️ TECH ARSENAL 』
 
-    <script>
-        // Generate animated particles
-        const particlesContainer = document.getElementById('particles');
-        for (let i = 0; i < 50; i++) {
-            const particle = document.createElement('div');
-            particle.className = 'particle';
-            particle.style.left = Math.random() * 100 + '%';
-            particle.style.animationDelay = Math.random() * 15 + 's';
-            particle.style.animationDuration = (Math.random() * 10 + 10) + 's';
-            particlesContainer.appendChild(particle);
-        }
-    </script>
-</body>
-</html>
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 『 📊 GITHUB STATISTICS 』
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshitaupr12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitaupr12&theme=radical&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="GitHub Streak"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitaupr12&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshitaupr12&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 『 🏆 ACHIEVEMENTS 』
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=harshitaupr12&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+<div align="center">
+
+## 『 💼 WHAT I DO 』
+
+```python
+class Engineer:
+    def __init__(self):
+        self.name = "Harshita Upreti"
+        self.role = "Software Engineer"
+        self.language_spoken = ["hi_IN", "en_US"]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+    
+    def current_work(self):
+        return [
+            "🔨 Building scalable React applications",
+            "🎯 Optimizing system performance", 
+            "📚 Learning cloud architecture",
+            "💡 Contributing to open source"
+        ]
+
+me = Engineer()
+me.say_hi()
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 『 🌟 FEATURED PROJECTS 』
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=harshitaupr12&repo=my-portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF)](https://my-portfolio-two-gamma-81.vercel.app)
+
+*🚀 More awesome projects coming soon...*
+
+</div>
+
+---
+
+<div align="center">
+
+## 『 📈 CODING ACTIVITY 』
+
+<!--START_SECTION:waka-->
+```text
+React        12 hrs 30 mins  ████████████░░░░░░░░░░░   48.50%
+TypeScript   8 hrs 15 mins   ████████░░░░░░░░░░░░░░░   32.10%
+JavaScript   3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░   14.60%
+CSS          1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░   04.80%
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+<div align="center">
+
+## 『 💭 RANDOM DEV QUOTE 』
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+## 『 🎯 CURRENT GOALS 』
+
+- 🌱 Mastering **System Design** and **Cloud Architecture**
+- 🚀 Contributing to **Open Source** projects
+- 📝 Writing technical blogs and sharing knowledge
+- 💪 Building production-grade applications
+- 🎓 Learning **GraphQL** and **Microservices**
+
+</div>
+
+---
+
+<div align="center">
+
+## 『 🤝 LET'S CONNECT 』
+
+**Open for collaboration, freelance projects, and interesting opportunities!**
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitaupr12)
+[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitaupreti07@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-two-gamma-81.vercel.app)
+
+<br/>
+
+**⭐ From [harshitaupr12](https://github.com/harshitaupr12) with 💚**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
